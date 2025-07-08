@@ -6,7 +6,7 @@ How Do I Watch Sling TV Online Now Instantly?
    :caption: Contents:
 Learn how to watch Sling TV online now with ease. Stream live TV, on-demand shows, and more right from your browser or device without cable.
  
-.. image:: https://sling-tv-packages.readthedocs.io/en/latest/_images/help.jpg
+.. image:: help.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
